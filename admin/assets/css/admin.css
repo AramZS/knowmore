@@ -1,0 +1,5 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#know_more_meta_box label { display: block; }
+#know_more_meta_box input { margin: 5px 0 10px; width: 100%; }
+.know_more_hidden { display: none; }
