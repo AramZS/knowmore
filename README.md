@@ -11,12 +11,6 @@ Read next module for articles.
 
 == Description ==
 
-=== To do ===
-
-* Add read next to articles
-* Party
-
-
 == Installation ==
 
 == Frequently Asked Questions ==
@@ -28,6 +22,5 @@ Read next module for articles.
 
 = 1.0 =
 * init
-
 
 == Upgrade Notice ==
