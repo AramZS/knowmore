@@ -286,10 +286,10 @@ class Know_More {
 	}
 
 	/**
-	 *
+	 * Adds read next module to the end of the content
 	 * @since    1.0.0	 
 	 */
-	function add_know_more_module( $content ){
+	function add_know_more_module( $content ) {
 		global $post;
 		$url      = get_post_meta( $post->ID, '_know_more_post_meta_box_url', true );
 		$headline = get_post_meta( $post->ID, '_know_more_post_meta_box_headline', true );
